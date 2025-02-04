@@ -14,7 +14,7 @@
 
 <h2 align="center"> 👨‍💻 About Me </h2>
 
-- 🌱 Passionate about **Engineering, Math, Physics, and Programming Competitions**.
+- 🌱 Passionate about **Engineering, Math, Physics and Programming**.
 - 🔭 **Roles:**
   - Managing Secretary @ [**Community of Coders**](https://github.com/CommunityofCoders)
   - Placement Coordinator @ [**VJTI**](https://vjti.ac.in)
