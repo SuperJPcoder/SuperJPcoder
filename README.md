@@ -13,6 +13,7 @@
 ---
 
 <h2 align="center"> 👨‍💻 About Me </h2>
+
 - 📍 Based in **Mumbai, India**.
 - 🌱 Passionate about **Engineering, Math, Physics and Programming**.
 - 🔭 **Roles:**
