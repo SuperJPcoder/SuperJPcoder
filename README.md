@@ -4,8 +4,6 @@
 
 ---
 
-<h3 align="center">"I have discovered a truly marvelous proof of this, which this margin is too narrow to contain"</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=superjpcoder&label=Profile%20views&color=0e75b6&style=flat" alt="superjpcoder" />
 </p>
