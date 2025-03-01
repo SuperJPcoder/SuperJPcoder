@@ -15,7 +15,7 @@
 - 📍 Based in **Mumbai, India**.
 - 🌱 Passionate about **Engineering, Math, Physics and Programming**.
 - 🔭 **Roles:**
-  - Managing Secretary @ [**Community of Coders**](https://github.com/CommunityofCoders)
+  - Joint General Secretary @ [**Community of Coders**](https://github.com/CommunityofCoders)
   - Placement Coordinator @ [**VJTI**](https://vjti.ac.in)
 - 🎯 Aspiring to make an impact in **Education** and **Innovation**.
 - 📫 Reach me at **priyanksjhaveri@gmail.com**.
