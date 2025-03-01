@@ -14,9 +14,10 @@
 
 - 📍 Based in **Mumbai, India**.
 - 🌱 Passionate about **Engineering, Math, Physics and Programming**.
+- 👨‍🎓 Currently in my **pre-final year** of **B.Tech in Information Technology** @ [**VJTI**](https://vjti.ac.in)
 - 🔭 **Roles:**
-  - Joint General Secretary @ [**Community of Coders**](https://github.com/CommunityofCoders)
-  - Placement Coordinator @ [**VJTI**](https://vjti.ac.in)
+  - *Joint General Secretary* @ [**Community of Coders**](https://github.com/CommunityofCoders)
+  - *Placement Coordinator* @ [**VJTI**](https://vjti.ac.in)
 - 🎯 Aspiring to make an impact in **Education** and **Innovation**.
 - 📫 Reach me at **priyanksjhaveri@gmail.com**.
 
