@@ -28,12 +28,12 @@
   <a href="https://linkedin.com/in/priyank-jhaveri7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/priyanksjhaveri" target="_blank">
+<!--   <a href="https://instagram.com/priyanksjhaveri" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://codeforces.com/profile/priyank_jhaveri" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
+  </a> -->
   <a href="https://discord.gg/1333468244094488636" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
