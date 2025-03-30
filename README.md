@@ -19,12 +19,26 @@
   - *Joint General Secretary* @ [**Community of Coders**](https://github.com/CommunityofCoders)
   - *Placement Coordinator* @ [**VJTI**](https://vjti.ac.in)
 - 🎯 Aspiring to make an impact in **Education** and **Innovation**.
-- 📫 Reach me at **priyanksjhaveri@gmail.com**.
+- 📫 Know me here [**Priyank-Jhaveri**](https://superjpcoder.github.io/portfolio-website/).
 
 ---
 
 <h2 align="center"> 🌐 Connect With Me </h2>
 <p align="center">
+  <a href="mailto:priyanksjhaveri@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+ <a href="https://superjpcoder.github.io/portfolio-website/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-3498db?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
   <a href="https://linkedin.com/in/priyank-jhaveri7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
